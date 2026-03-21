@@ -1,15 +1,18 @@
+<!-- Profile Header -->
 # Hi 👋 I'm Paramesh Babu Banda
 
 ### 🎯 Data Analyst | Python | SQL | Power BI | Machine Learning
 
-📍 Hyderabad, India | 📧 Parameshbabu5.b@gmail.com
+📍 Hyderabad, India  |  📧 Parameshbabu5.b@gmail.com
 
 ---
 
+<!-- Open to Work Banner -->
 > 🟢 **Actively looking for Data Analyst / Business Analyst roles in Hyderabad (On-site & Remote)**
 
 ---
 
+<!-- About Me -->
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. Statistics graduate with a **Full Stack Data Science & GenAI** certification
@@ -21,23 +24,21 @@
 
 ---
 
+<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 **Languages & Databases**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Machine Learning & AI**
-
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 **Data & Visualization**
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -45,7 +46,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
 **Tools & Deployment**
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -54,6 +54,7 @@
 
 ---
 
+<!-- Featured Projects -->
 ## 🚀 Featured Projects
 
 | Project | Tools | Key Result |
@@ -63,6 +64,7 @@
 
 ---
 
+<!-- Experience -->
 ## 💼 Work Experience
 
 🔬 **Data Science Intern** — CodTech IT Solutions *(Apr 2025 – Present)*
@@ -75,6 +77,7 @@
 
 ---
 
+<!-- Education -->
 ## 🎓 Education
 
 | Degree | Institution | Year | Score |
@@ -85,6 +88,7 @@
 
 ---
 
+<!-- Certifications -->
 ## 📜 Certifications
 
 - ✅ Full Stack Data Science & GenAI — *Naresh I Technologies*
@@ -93,6 +97,7 @@
 
 ---
 
+<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 ![Paramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParameshbabuBanda&show_icons=true&theme=tokyonight&hide_border=true)
@@ -100,6 +105,7 @@
 
 ---
 
+<!-- Connect -->
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paramesh%20Babu%20Banda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/paramesh-babu-banda-41a7b3313)
@@ -107,5 +113,4 @@
 [![Email](https://img.shields.io/badge/Email-Parameshbabu5.b%40gmail.com-red?style=flat&logo=gmail)](mailto:Parameshbabu5.b@gmail.com)
 
 ---
-
 ⭐ *If you find my work useful, consider giving a star to my repositories!*
