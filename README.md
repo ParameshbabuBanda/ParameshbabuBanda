@@ -1,4 +1,4 @@
-# Hi, I'm Paramesh Babu Banda 👋
+# Hi, I'm ParameshBabu Banda 👋
 
 🎯 Data Analyst | Python | SQL | Power BI | Machine Learning
 
