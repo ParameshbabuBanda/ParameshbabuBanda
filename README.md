@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 # Hi 👋 I'm Paramesh Babu Banda
 
-### 🎯 Data Analyst | Python | SQL | Power BI | Machine Learning
+### 🎯 Data Analyst | Python | SQL | Adv Excel | Power BI | Machine Learning
 
 📍 Hyderabad, India  |  📧 Parameshbabu5.b@gmail.com
 
