@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-# Hi 👋 I'm Paramesh Babu Banda
+# Hi 👋 I'm BANDA PARAMESH BABU
 
 ### 🎯 Data Analyst | Python | SQL | Adv Excel | Power BI | Machine Learning
 
