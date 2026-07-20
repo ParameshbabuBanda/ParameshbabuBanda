@@ -3,7 +3,7 @@
 
 ### 🎯 Data Analyst | Python | SQL | Adv Excel | Power BI | Machine Learning
 
-📍 Hyderabad, India  |  📧 Parameshbabu5.b@gmail.com
+📍 Kurnool,AP India  |  📧 Parameshbabu5.b@gmail.com
 
 ---
 
